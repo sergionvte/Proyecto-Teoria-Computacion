@@ -7,7 +7,7 @@ def mainMenu():
         print('MÁQUINA EXPENDEDORA'.center(30, ' '))
         print('\n')
         print('CODIGO -   PRODUCTO    -   PRECIO')
-        print('  A1   -   PINGÜINOS   -   $15.00')
+        print('  A1   -   CHOCO ROL   -   $15.00')
         print('  B2   -   GANSITO     -   $10.00')
         print('  C3   -   SABRITAS    -   $12.00')
         print('  D4   -   CHOCOLATE   -   $10.00')
